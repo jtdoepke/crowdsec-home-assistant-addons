@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## v0.0.35
 
 - Add TLS/mTLS authentication support for connecting to remote LAPI
 - Add `tls_enabled`, `tls_ca_cert`, `tls_client_cert`, `tls_client_key`, `tls_skip_verify` configuration options
