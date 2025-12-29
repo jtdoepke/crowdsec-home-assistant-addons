@@ -17,7 +17,7 @@ ports:
   8080/tcp: null
 ports_description:
   8080/tcp: "CrowdSec Local API"
-image: "ghcr.io/crowdsecurity/{arch}-addon-crowdsec"
+image: "ghcr.io/jtdoepke/{arch}-addon-crowdsec"
 options:
   acquisition: |
     ---
